@@ -6,7 +6,7 @@ public class Sample1 {
 	// メインメソッドを定義する。
 	public static void main(String[] args) {
 		// コンソールに文字列を出力させる。
-		System.out.println("HelloWorld!!");
+		System.out.println("Hello World!!");
 	}
 
 }
