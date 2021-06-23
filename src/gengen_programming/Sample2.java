@@ -5,8 +5,14 @@ package gengen_programming;
 public class Sample2 {
 	// メインメソッドを定義する。
 	public static void main(String[] args) {
-		// コンソールに文字列を出力させる。
-		System.out.println("HelloWorld!!");
+		// 変数と型を定義する。
+		String name = "田中太郎";
+		int age = 20;
+		double height = 170.6;
+
+		// コンソールに変数の内容を出力する。
+		System.out.println("私の名前は" + name + "です。");
+		System.out.print("年齢は" + age + "歳で、");
+		System.out.println("身長は" + height + "cmです。");
 	}
 }
-

@@ -5,7 +5,7 @@ package gengen_programming;
 public class Sample1 {
 	// メインメソッドを定義する。
 	public static void main(String[] args) {
-		// コンソールに文字列を出力させる。
+		// コンソールに文字列を出力する。
 		System.out.println("HelloWorld!!");
 	}
 }
