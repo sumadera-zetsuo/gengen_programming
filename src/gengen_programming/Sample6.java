@@ -20,11 +20,10 @@ public class Sample6 {
 
 		// 入力された内容を出力し、年齢の評価を行う。
 		System.out.println(name + "さんの年齢は" + age + "歳です。");
-		// ageが定数20より小さかったら
-		if (age < SEIJIN) {
+
+		if (age < SEIJIN) { // ageが定数20より小さかったら
 			System.out.println("あなたは未成年ですね。");
-			// それ以外（つまり20以上）だったら
-		} else {
+		} else { // それ以外（つまり20以上）だったら
 			System.out.println("あなたは成人ですね。");
 		}
 	}
