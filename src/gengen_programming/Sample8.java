@@ -7,7 +7,7 @@ public class Sample8 {
 	public static void main(String[] args) {
 		// 配列:同じようなジャンルのものをたくさん定義したい時に便利な変数
 		String fruits[] = { "りんご", "ばなな", "みかん", "すいか", "ぶどう", "れもん" };
-		// 配列内の要素の数分繰り返しを実行
+		// 配列内の要素の数だけ繰り返しを実行
 		for (int i = 0; i < fruits.length; i++) {
 			System.out.println(fruits[i]);
 		}
