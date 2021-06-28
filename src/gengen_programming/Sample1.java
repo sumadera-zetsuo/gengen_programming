@@ -8,5 +8,4 @@ public class Sample1 {
 		// コンソールに文字列を出力する。
 		System.out.println("HelloWorld!!");
 	}
-}　    
-   
+}
