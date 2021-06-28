@@ -6,7 +6,7 @@ public class Sample10 {
 		// 変数と型を定義する。
 		String name = "田中正造";
 		int age = 56;
-		double height = 165.1;
+		double height = 165.4;
 		Sample9.introduce(name, age, height);
 	}
 

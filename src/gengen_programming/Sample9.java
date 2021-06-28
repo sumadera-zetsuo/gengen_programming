@@ -8,7 +8,7 @@ public class Sample9 {
 		// 変数と型を定義する。
 		String name = "田中太郎";
 		int age = 20;
-		double height = 170.4;
+		double height = 170.2;
 		introduce(name, age, height);
 
 		// 変数の値を変更する
