@@ -10,7 +10,9 @@ public class Sample12 {
 
 	public static int random_num() {
 		Random rand = new Random();
+
 		return rand.nextInt(10);
+		
 	}
 
 }
