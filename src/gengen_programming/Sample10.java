@@ -9,5 +9,4 @@ public class Sample10 {
 		double height = 165.4;
 		Sample9.introduce(name, age, height);
 	}
-
 }
