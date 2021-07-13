@@ -1,3 +1,4 @@
+// パッケージ名
 package gengen_programming;
 
 import java.util.Random;
